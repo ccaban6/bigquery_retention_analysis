@@ -75,7 +75,11 @@ The notebook includes:
 
 - A **general funnel** overview
 
+![General Funnel Overview](images/funnel_overview.png)
+
 - Segmented **funnels by device category**
+
+![Funnel by Device](images/funnel_by_device.png)
 
 These expose where the highest drop-offs occur and which user groups experience the most friction.
 
@@ -106,6 +110,10 @@ Weekly cohorts are created from first-session dates to examine:
 - Device-specific retention patterns
 
 - Where long-term engagement breaks down
+
+#### Device-Level Retention Heatmaps
+![Desktop Retention](images/retention_heatmap_desktop.png)
+![Mobile Retention](images/retention_heatmap_mobile.png)
 
 Heatmaps visualize retention curves and highlight which devices drive the strongest return behavior.
 
